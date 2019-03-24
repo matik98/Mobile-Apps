@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string-array name="symbols">
+        <item> </item>
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+    <string name="bot">BOT</string>
+    <string name="on">Game with bot</string>
+    <string name="off">Two players game</string>
+    <string name="reset_button">New game</string>
+
+    <string name="bot_game">You play with X</string>
+    <string name="x_turn">Turn of player X</string>
+    <string name="o_turn">Turn of player O</string>
+
+    <string name="x_won">Player X won the game</string>
+    <string name="o_won">Player O won the game</string>
+    <string name="u_won">You won</string>
+    <string name="bot_won">You lost</string>
+
+
+</resources>
